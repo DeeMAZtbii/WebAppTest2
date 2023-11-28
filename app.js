@@ -6,6 +6,7 @@ const products = [
   { id: 3, name: 'Кроссовки', price: 2000 },
   // ...другие товары
 ];
+
 const gallery = document.querySelector('.gallery'); 
 
 products.forEach(product => {
