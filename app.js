@@ -1,5 +1,6 @@
 const products = [
   { name: 'Курица с терияки', price: 220, image: 'kurter.jpg' },
+  { name: 'Индейка с томатом', price: 220, image: 'indtomat.jpg' },
   // Другие товары
 ];
 
