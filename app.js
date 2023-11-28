@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const products = [
-  { id: 1, name: 'Футболка', price: 500 },
+  { id: 1, name: 'Футболка', price: 500, image: 'tshirt.jpg' },
   { id: 2, name: 'Джинсы', price: 1500 },
   { id: 3, name: 'Кроссовки', price: 2000 },
   // ...другие товары
